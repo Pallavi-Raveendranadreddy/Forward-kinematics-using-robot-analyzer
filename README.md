@@ -55,7 +55,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ![output](https://github.com/Pallavi-Raveendranadreddy/Forward-kinematics-using-robot-analyzer/blob/main/3.JPG)
 
-6 dof:
+## 6 dof:
 
 ![output](https://github.com/Pallavi-Raveendranadreddy/Forward-kinematics-using-robot-analyzer/blob/main/4.JPG) 
 
