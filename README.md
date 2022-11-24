@@ -45,8 +45,9 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 6.Update the DH parameters of the link configuration and end effector configuration.
 
-OUTPUT:
-4 dof:
+### OUTPUT:
+
+## 4 dof:
 
 ![output](https://github.com/Pallavi-Raveendranadreddy/Forward-kinematics-using-robot-analyzer/blob/main/1.JPG)
 
@@ -56,7 +57,7 @@ OUTPUT:
 
 6 dof:
 
-![output](https://github.com/Pallavi-Raveendranadreddy/Forward-kinematics-using-robot-analyzer/blob/main/4.J5G) 
+![output](https://github.com/Pallavi-Raveendranadreddy/Forward-kinematics-using-robot-analyzer/blob/main/4.JPG) 
 
 ![output](https://github.com/Pallavi-Raveendranadreddy/Forward-kinematics-using-robot-analyzer/blob/main/5.JPG)
 
